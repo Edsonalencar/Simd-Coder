@@ -1,6 +1,6 @@
 # Simd-Coder ✂️
 
-O Sind Coder simula o "Single Instruction Multiple Data", também conhecido como "SIMD", que de modo geral é a istrução interna dos processadores atuais
+O Simd Coder simula o "Single Instruction Multiple Data", também conhecido como "SIMD", que de modo geral é a istrução interna dos processadores atuais
 que a partir de manipulações bit a bit, permite relizar operações matematicas em multiplos valores de forma simultanea.
 
 ## Composição do projeto
